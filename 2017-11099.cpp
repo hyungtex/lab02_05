@@ -4,7 +4,7 @@
 //18-04-09 programming methodology, LAB2.
 //"auto" keyword
 //"range based for loop"
-// make an ordering fuction.
+// make an ordering fuction.//
 using namespace std;
 //lecture notes.
 //automatic type deduction/delcared types.
